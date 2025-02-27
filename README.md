@@ -79,8 +79,6 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
